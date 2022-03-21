@@ -1,6 +1,6 @@
 # Clear-My-Console
 
-> CMC is a Cross platform console which clear your Node.js CLI.
+> CMC helps you to clear your CLI.
 
 <br />
 
