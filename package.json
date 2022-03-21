@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "CMC is a Cross platform console which clear your Node.js CLI.",
   "main": "index.js",
+  "type": "module",
   "files": [
     "index.js"
   ],
