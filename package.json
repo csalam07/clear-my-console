@@ -1,6 +1,6 @@
 {
   "name": "clear-my-console",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CMC is a Cross platform console which clear your Node.js CLI.",
   "main": "index.js",
   "type": "module",
